@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and DSA**
 
-- 💬 Ask me about **Front-end Development and Data Analytics**
+- 💬 Ask me about **Front-End Development and Data Analytics**
 
 - 📫 How to reach me **narangnaman29@gmail.com**
 
