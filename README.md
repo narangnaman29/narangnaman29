@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narangnaman29&label=Profile%20views&color=0e75b6&style=flat" alt="narangnaman29" /> </p>
 
-- 🌱 I’m currently learning **React and DSA**
+- 🌱 I’m currently learning **Data Science & Analytics**
 
 - 💬 Ask me about **Front-End Development and Data Analytics**
 
